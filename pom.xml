@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>coid.bca</groupId>
-	<artifactId>MandiUang-Trx-Service</artifactId>
+	<artifactId>MandiUang-ApproveRequest-Service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MandiUang-Trx-Service</name>
-	<description>MandiUang Transfer Service</description>
+	<name>MandiUang-ApproveRequest-Service</name>
+	<description>Service For Approve and Request Budget</description>
 
 	<properties>
 		<java.version>1.8</java.version>

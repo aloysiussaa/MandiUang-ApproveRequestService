@@ -1,6 +1,6 @@
 ## Server Properties
 server:
-  port: 8083
+  port: 8084
   compression:
     enabled: true
 
@@ -41,4 +41,5 @@ app:
   jwtSecret: JWTSuperSecretKey
   jwtExpirationInMs: 604800000
     
+
 
