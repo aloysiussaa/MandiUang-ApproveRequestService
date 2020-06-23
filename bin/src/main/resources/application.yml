@@ -10,9 +10,9 @@ spring:
     name: trx-service 
   datasource: 
 #    url: jdbc:postgresql://localhost:5432/TestLoginMandiUang
-    url: jdbc:oracle:thin:@localhost:1521:devbit
-    username: aloy
-    password: aloy
+    url: jdbc:postgresql://localhost:5432/TestAutoDDL2
+    username: postgres
+    password: admin
     initialization-mode: always
   jackson:
     time-zone: GMT+7
